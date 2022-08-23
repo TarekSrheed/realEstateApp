@@ -1,6 +1,6 @@
 # real_estate_app
 
-A new Flutter project.
+Website and mobile app for real estate development.
 
 ## Getting Started
 
